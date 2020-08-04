@@ -1,10 +1,8 @@
 # Hi there, I'm Arza - Devarista
-<!-- [website] 👋 -->
 
 ## I'm a Developer, Freelancer, and a Man
 
 - 🏢 I’m currently working on a Devarista - YouTube Tutorial Videos
-<!-- - [website]! -->
 - 👨‍🎓 I’m learning everything, that's make me happy
 - 🎯 2020 Goals: Make my Personal Branding
 - ⚡ Fun fact: I love to draw and play guitar
