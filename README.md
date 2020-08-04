@@ -39,6 +39,6 @@
 
 [website]: https://devarista.com
 [twitter]: https://twitter.com/arza_ak
-[youtube]: https://youtube.com/devarista.id
-[instagram]: https://instagram.com/devarista
+[youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
+[instagram]: https://instagram.com/devarista.id
 [linkedin]: https://linkedin.com/in/arzaak
