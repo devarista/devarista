@@ -1,4 +1,4 @@
-# Hi there, I'm Area - aka [devarista]
+# Hi there, I'm Arza - aka [devarista]
 <!-- [website] 👋 -->
 
 ## I'm a Developer, Freelancer, and a Man
