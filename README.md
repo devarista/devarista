@@ -1,9 +1,9 @@
-# Hi there, I'm Arza - aka [devarista]
+# Hi there, I'm Arza - Devarista
 <!-- [website] 👋 -->
 
 ## I'm a Developer, Freelancer, and a Man
 
-- 🏢 I’m currently working on a [Devarista - YouTube Tutorial Videos]
+- 🏢 I’m currently working on a Devarista - YouTube Tutorial Videos
 <!-- - [website]! -->
 - 👨‍🎓 I’m learning everything, that's make me happy
 - 🎯 2020 Goals: Make my Personal Branding
@@ -35,21 +35,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true" />
+<img align="left" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://devarista.com
 [twitter]: https://twitter.com/arza_ak
