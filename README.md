@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Freelancer, and a Man
 
-- 🏢 I’m currently working on a Devarista - YouTube Tutorial Videos
+- 🏢 I’m currently working on a Devarista - YouTube Tutorial Channel
 - 👨‍🎓 I’m learning everything, that's make me happy
 - 🎯 2020 Goals: Make my Personal Branding
 - ⚡ Fun fact: I love to draw and play guitar
