@@ -3,7 +3,7 @@
 ## I'm a Developer, and Freelancer
 
 - 🏢 I’m currently working on a Devarista - YouTube Tutorial Channel
-- 👨‍🎓 I’m learning everything, that's make me happy
+- 🎓 I’m currently learning Flutter
 - 🎯 2020 Goals: Make my Personal Branding
 - ⚡ Fun fact: I love to draw and play guitar
 
