@@ -1,4 +1,4 @@
-# Hi there, I'm Arza - Devarista
+# Hi, I'm Arza. I'm a Web Developer
 
 ## I'm a Developer, Freelancer, and a Man
 
