@@ -1,6 +1,6 @@
 # Hi, I'm Arza. I'm a Web Developer
 
-## I'm a Developer, Freelancer, and a Man
+## I'm a Developer, and Freelancer
 
 - 🏢 I’m currently working on a Devarista - YouTube Tutorial Channel
 - 👨‍🎓 I’m learning everything, that's make me happy
