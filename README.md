@@ -10,9 +10,10 @@
 ### Connect with me
 
 [<img align="left" alt="devarista | YouTube" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="devarista | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="arzaak | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="devarista | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="devarista | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Arza Aldi Kusuma | Facebook" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -43,3 +44,4 @@
 [youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
 [instagram]: https://instagram.com/devarista.id
 [linkedin]: https://linkedin.com/in/arzaak
+[facebook]: https://facebook.com/devarista.id
