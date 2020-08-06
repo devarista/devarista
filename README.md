@@ -1,4 +1,4 @@
-# Hi, I'm Arza. I'm a Web Developer
+# Hi, I'm Arza. 👋
 
 ## I'm a Developer, and Freelancer
 
