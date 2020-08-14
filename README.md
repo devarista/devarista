@@ -5,7 +5,7 @@
 - 🏢 I’m currently working on a Devarista - YouTube Tutorial Channel
 - 🎓 I’m currently learning Flutter
 - 🎯 2020 Goals: Make my Personal Branding
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to draw an Illustration and play guitar
 
 ### Connect with me
 
