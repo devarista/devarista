@@ -32,6 +32,9 @@
 
 ---
 
+[![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/omnitenebris)
+
+
 <img align="left" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight" />
 
 [website]: https://devarista.com
