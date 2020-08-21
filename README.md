@@ -29,11 +29,6 @@
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-
-### GitHub Stats
-
-<p><img align="left" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight" /></p>
-
 <br />
 
 ---
@@ -41,6 +36,10 @@
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kampungvector)
+
+### GitHub Stats
+
+<p><img align="left" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight" /></p>
 
 [website]: https://devarista.com
 [twitter]: https://twitter.com/arza_ak
