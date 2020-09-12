@@ -1,6 +1,6 @@
 # Hi, I'm Arza. 👋
 
-## I'm a Developer, and Freelancer 👨‍💻
+### I'm a Developer, and Freelancer 👨‍💻
 
 - 🏢 I’m currently working on a Devarista - YouTube Tutorial Channel
 - 🎓 I’m currently learning Flutter
