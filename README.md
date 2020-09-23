@@ -2,14 +2,12 @@
 
 ### I'm a Developer, and Freelancer 👨‍💻
 
-- 🏢 I’m currently working on a Devarista - YouTube Tutorial Channel
 - 🎓 I’m currently learning Flutter
 - 🎯 2020 Goals: Make my Personal Branding
 - ⚡ Fun fact: I love to draw an Illustration and play guitar
 
 ### Connect with me 🤝
 
-[<img align="left" alt="devarista | YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="arzaak | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="devarista | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="devarista | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
