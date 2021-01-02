@@ -3,7 +3,7 @@
 ### I'm a Developer, and Freelancer 👨‍💻
 
 - 🎓 I’m currently learning Flutter
-- 🎯 2020 Goals: Make my Personal Branding
+- 🎯 2021 Goals: Make my Personal Branding
 - ⚡ Fun fact: I love to draw an Illustration and play guitar
 
 ### Connect with me 🤝
