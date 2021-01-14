@@ -2,7 +2,7 @@
 
 ### I'm a Developer, and Freelancer 👨‍💻
 
-- 🎓 I’m currently learning Flutter
+- 🎓 I’m currently learning NodeJS and VueJS
 - 🎯 2021 Goals: Make my Personal Branding
 - ⚡ Fun fact: I love to draw an Illustration and play guitar
 
