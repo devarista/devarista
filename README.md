@@ -31,8 +31,6 @@
 </div>
 
 ---
-<br/>
-
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kampungvector)
