@@ -14,6 +14,7 @@
 [<img align="left" style="color:white" alt="Arza Aldi Kusuma | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br/>
+
 ### Languages and Tools 🤹‍
 
 <img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,6 +27,8 @@
 <img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
+---
 
 ### Now Playing 🎧
 
