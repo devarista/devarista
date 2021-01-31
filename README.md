@@ -13,22 +13,18 @@
 [<img align="left" style="color:white" alt="devarista | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" style="color:white" alt="Arza Aldi Kusuma | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
-<br />
-
 ### Languages and Tools 🤹‍
 
-[<img align="left" alt="tools" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][js]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />][laravel]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />][vue]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][nodejs]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />][expressjs]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />][flutter]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />][dart]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][mongodb]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />][tailwindcss]
-[<img align="left" alt="tools" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />][md]
-
----
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][js]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />][laravel]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />][vue]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][nodejs]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />][expressjs]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />][flutter]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />][dart]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][mongodb]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />][tailwindcss]
+[<img align="left" style="color:white" alt="tools" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />][md]
 
 ### Now Playing 🎧
 
