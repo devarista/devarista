@@ -1,6 +1,6 @@
 # Hi, I'm Arza. 👋
 
-### I'm a Developer, and Freelancer 👨‍💻
+### I'm a FS Developer, and Freelancer 👨‍💻
 
 - 🎓 I’m currently learning NodeJS and VueJS
 - 🎯 2021 Goals: Make my Personal Branding
