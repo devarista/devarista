@@ -37,12 +37,13 @@
 
 ### GitHub Stats 🌟
 
-<p><img align="left"style="width:100%" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight" /></p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&show_owner=true&theme=tokyonight)](https://github.com/devarista)
 
-<br/>
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/devarista/github-readme-stats)
 
- ### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact)](https://github.com/devarista/github-readme-stats)
+### Wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/arza_ak
 [youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
