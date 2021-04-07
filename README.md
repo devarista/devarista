@@ -39,9 +39,10 @@
 
 <p><img align="left"style="width:100%" alt="devarista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight" /></p>
 
-<!-- ### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&langs_count=8)](https://github.com/devarista/github-readme-stats)
--->
+<br/>
+ ### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layouts=compact)](https://github.com/devarista/github-readme-stats)
+
 [twitter]: https://twitter.com/arza_ak
 [youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
 [instagram]: https://www.instagram.com/arza.ak/
