@@ -43,7 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/arza_ak
 [youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
