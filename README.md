@@ -45,7 +45,7 @@
 ### Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka)](https://github.com/anuraghazra/github-readme-stats)
 
-[![halajsd](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 [twitter]: https://twitter.com/arza_ak
 [youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
