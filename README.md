@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently learning NodeJS and VueJS
 - 🎯 2021 Goals: Make my Personal Branding
-- ⚡ Fun fact: I love to draw an Illustration and play guitar
+- ⚡ Fun fact: I love to draw an Illustration and Watching Movies
 
 ### Connect with me 🤝
 
