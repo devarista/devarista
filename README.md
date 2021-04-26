@@ -35,7 +35,7 @@
 [![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kampungvector)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
