@@ -2,7 +2,7 @@
 
 ### I'm a FS Developer, and Freelancer 👨‍💻
 
-- I’m currently learning NodeJS and VueJS
+- I’m currently learning NodeJS and NextJS
 - I'm currently learning UI/UX Design
 - 2021 Goals: Make my Personal Branding
 
