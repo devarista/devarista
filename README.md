@@ -20,10 +20,10 @@
 <div style="display:inline-flex;">
 <img style="margin-left:10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img style="margin-left:10px" src="https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D" />
-<img style="margin-left:10px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img style="margin-left:10px" src="https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=white" />
-<img style="margin-left:10px" src="https://img.shields.io/badge/Next.js-35495E?style=for-the-badge&logo=next.js&logoColor=white" />
+<img style="margin-left:10px" src="https://img.shields.io/badge/Nuxt.js-2ecc71?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D" />
+<img style="margin-left:10px" src="https://img.shields.io/badge/Vue.js-27ae60?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img style="margin-left:10px" src="https://img.shields.io/badge/React.js-2980b9?style=for-the-badge&logo=react&logoColor=white" />
+<img style="margin-left:10px" src="https://img.shields.io/badge/Next.js-2c3e50?style=for-the-badge&logo=next.js&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
