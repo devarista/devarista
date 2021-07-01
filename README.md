@@ -24,9 +24,10 @@
 <img style="margin-left:10px" src="https://img.shields.io/badge/Vue.js-27ae60?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/React.js-2980b9?style=for-the-badge&logo=react&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Next.js-2c3e50?style=for-the-badge&logo=next.js&logoColor=white" />
+<img style="margin-left:10px" src="https://img.shields.io/badge/Vuex-2c3e50?style=for-the-badge&logo=vuex&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img style="margin-left:10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<!-- <img style="margin-left:10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> -->
 <!-- <img style="margin-left:10px" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> -->
 <img style="margin-left:10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
