@@ -20,7 +20,7 @@
 <div style="display:inline-flex;">
 <img style="margin-left:10px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img style="margin-left:10px" alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white" />
+<img style="margin-left:10px" alt="NuxtJS" src="https://img.shields.io/badge/Nuxt.JS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white" />
 <img style="margin-left:10px" src="https://img.shields.io/badge/vue.js-27ae60?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img style="margin-left:10px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img style="margin-left:10px" alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
