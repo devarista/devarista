@@ -30,8 +30,6 @@ margin-left: 4;">
 </a>
 </div>
 
-<br/>
-
 ### Languages and Frameworks 🤹‍
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
