@@ -51,13 +51,13 @@ margin-left: 4;">
 <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
 </div>
 
-### Editors 📝
+<!-- ### Editors 📝
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</div>
+</div> -->
 
 ### API Development Tools 👩‍💻
 
@@ -75,13 +75,13 @@ margin-left: 4;">
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 </div>
 
-### Servers 🥘
+<!-- ### Servers 🥘
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-</div>
+</div> -->
 
 ### Databases 🛒
 
@@ -108,12 +108,12 @@ margin-left: 4;">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-### Education 🎒
+<!-- ### Education 🎒
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</div>
+</div> -->
 
 ### Now Playing 🎧
 
