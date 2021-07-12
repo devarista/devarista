@@ -59,14 +59,14 @@ margin-left: 4;">
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div> -->
 
-### API Development Tools 👩‍💻
+<!-- ### API Development Tools 👩‍💻
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 </div>
-
-### Hosting/SaaS 🌎
+ -->
+<!-- ### Hosting/SaaS 🌎
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
@@ -74,7 +74,7 @@ margin-left: 4;">
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 </div>
-
+ -->
 <!-- ### Servers 🥘
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
