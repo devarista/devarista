@@ -3,8 +3,8 @@
 ### I'm a Full Stack Developer, and Freelancer 👨‍💻
 
 - I’m currently learning NodeJS and NextJS
-- I'm currently learning UI/UX Design
-- 2021 Goals: Make my Personal Branding
+- I love to create an UI/UX Design
+- Going to Build Personal Branding
 
 ### Connect with me 🤝
 
