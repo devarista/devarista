@@ -3,8 +3,8 @@
 ### I'm a Full Stack Developer, and Freelancer 👨‍💻
 
 - I’m currently learning NodeJS and NextJS
-- I love to create an UI/UX Design
-- Going to Build Personal Branding
+- Practicing to create a better UI/UX Design
+- Building Personal Branding
 
 ### Connect with me 🤝
 
