@@ -2,8 +2,6 @@
 
 ### I'm a Full Stack Developer, and Freelancer 👨‍💻
 
-- Building Personal Branding
-
 ### Connect with me 🤝
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
