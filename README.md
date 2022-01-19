@@ -30,6 +30,7 @@ margin-left: 4;">
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
+<img src="https://img.shields.io/badge/typescript-2f74c1?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <!-- <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white" /> -->
