@@ -1,8 +1,8 @@
-# Hi, I'm Arza. 👋
+<!-- # Hi, I'm Arza. 👋 -->
 
-### I'm a Full Stack Developer, and Freelancer 👨‍💻
+<!-- ### I'm a Full Stack Developer, and Freelancer 👨‍💻 -->
 
-### Connect with me 🤝
+### Get in touch 🤝
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
@@ -109,21 +109,21 @@ margin-left: 4;">
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </div> -->
 
-### Now Playing 🎧
+<!-- ### Now Playing 🎧 -->
 
-[![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kampungvector)
+<!-- [![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kampungvector) -->
 
-### My Stats 🏢
+<!-- ### My Stats 🏢 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Stats](https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Playground 🎭
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-### Work Hour ⚒
+<!-- ### Work Hour ⚒ -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [twitter]: https://twitter.com/arza_ak
 [youtube]: https://youtube.com/channel/UCp4PSOiA5EmsoMBW719ebvQ
