@@ -78,15 +78,15 @@ margin-left: 4;">
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div> -->
 
-### Databases 🛒
+<!-- ### Databases 🛒
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</div> -->
 
-### Version Control 🎮
+<!-- ### Version Control 🎮
 
 <div style="display:flex; justify-content:space-between; margin-right: 4;
 margin-left: 4;">
@@ -100,7 +100,7 @@ margin-left: 4;">
 margin-left: 4;">
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
+</div> -->
 
 <!-- ### Education 🎒
 
@@ -116,10 +116,10 @@ margin-left: 4;">
 <!-- ### My Stats 🏢 -->
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=devarista&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- 
 ### Playground 🎭
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ### Work Hour ⚒ -->
 
