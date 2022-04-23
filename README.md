@@ -1,6 +1,6 @@
 # Hi, I'm Arza. 👋
 
-## I'm a Full Stack Developer, and Freelancer 👨‍💻
+## I'm a Full Stack Web Developer 👨‍💻
 
 ### Get in touch 🤝
 
