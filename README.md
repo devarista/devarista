@@ -52,7 +52,3 @@
 ### Playground 🎭
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarista&layout=compact&hide=css,scss,less&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
-### Work Hour ⚒
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pitaloka)](https://github.com/anuraghazra/github-readme-stats)
