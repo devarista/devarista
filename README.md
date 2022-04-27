@@ -36,11 +36,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Atlassian-247df3.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
-### Education 🎒
-
-![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem.devarista.vercel.app/api/spotify-playing)](https://open.spotify.com/user/kampungvector)
